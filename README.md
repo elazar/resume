@@ -18,13 +18,15 @@ to the Greater New Orleans area or are remote-friendly.
 
 ## Experience
 
-### [When I Work](http://wheniwork.com/)
+### When I Work
+
+http://wheniwork.com
 
 **Full Stack Enginer (Remote) - July 2015 to Present**
 
 ### Blopboard
 
-** Senior Engineer (Remote) - October 2013 to July 2015**
+**Senior Engineer (Remote) - October 2013 to July 2015**
 
 * Maintained an existing REST API using nginx, MySQL, memcached, PHP, and the Slim framework and developed its functional test suite using Codeception
 * Developed additional microservices using Silex, MySQL, and Redis
@@ -32,9 +34,12 @@ to the Greater New Orleans area or are remote-friendly.
 * Migrated an existing user notification system to use Redis instead of MySQL
 * Set up and maintained logging infrastructure that included Monolog, Elasticsearch, Logstash, and Kibana
 
-### [Synacor](http://synacor.com/)
+### Synacor
+
+http://synacor.com
 
 **Principal Engineer (Remote) - February 2013 to October 2013**
+
 **Senior Engineer (Remote) - April 2010 to February 2013**
 
 * Contributed to an internal Solar-inspired PHP framework for use in multiple internal projects and tested using PHPUnit
@@ -42,15 +47,19 @@ to the Greater New Orleans area or are remote-friendly.
 * Lead a project to replace a heavy PHP-based frontend for serving customizable news portal components with a lighter frontend backed by various REST services
 * Authored and maintained internal documentation and training materials
 
-### [K-fx2](http://www.kfx2.com/)
+### K-fx2
 
-**Developer (Remote) • February 2010 to April 2010**
+http://www.kfx2.com
+
+**Developer (Remote) - February 2010 to April 2010**
 
 * Participated in the development of a CMS based on Digitalus
 * Contributed to benchmarking and performance improvements of a project for Blue Cross/Blue Shield using Zend Framework
 * Advised on development best practices and processes including version control, requirements gathering, and deployment
 
-### [php|architect](http://www.phparch.com/)
+### php|architect
+
+http://www.phparch.com
 
 **Technical Editor (Remote) - January 2009 to January 2010**
 
@@ -64,20 +73,26 @@ to the Greater New Orleans area or are remote-friendly.
 * Instructed online training courses covering RIA development with PHP and YUI, Zend Framework, and Magento
 * Developed a variety of data analysis solutions to assist in the migration of existing static web sites to content management systems including WordPress and Drupal
 
-### [surgiSYS](http://surgisys.com/)
+### surgiSYS
+
+http://surgisys.com
 
 **Lead Programmer - February 2008 to November 2008**
 
 * Maintained a legacy codebase for a LAMP-based application used to maintain and report on patient and study data from vascular surgery practices for accreditation and quality assurance purposes
 * Developed an application rewrite using Zend Framework to enhance application maintainability, stability, security, and extensibility
 
-### [Zend Technologies](http://www.zend.com/)
+### Zend Technologies
+
+http://www.zend.com
 
 **Consultant (Remote) - September 2007 to December 2007**
 
 * Worked with a team to maintain the Zend Developer Zone web site using Zend Framework, Prototype, and Scriptaculous
 
-### [METHODS Technology Solutions](http://www.methods-net.com/)
+### METHODS Technology Solutions
+
+http://www.methods-net.com
 
 **Programmer - August 2006 to February 2008**
 
@@ -92,7 +107,9 @@ to the Greater New Orleans area or are remote-friendly.
 * Developed and maintained PHP and Perl scripts to automate various tasks involving data integration, data archival and backup, and database maintenance
 * Performed various system and server administration duties
 
-### [Firefly Digital](https://www.fireflydigital.com/)
+### Firefly Digital
+
+https://www.fireflydigital.com
 
 **Software Architect - March 2002 to August 2005**
 
@@ -100,7 +117,9 @@ to the Greater New Orleans area or are remote-friendly.
 * Customized existing CMS applications and authored new custom applications to client specifications including applications utilizing PHP, Flash, AJAX, and third-party web services
 * Collaborated with analysts to develop specifications and perform quality control
 
-### [Gannett](http://www.gannett.com/)
+### Gannett
+
+http://www.gannett.com
 
 **Programmer - May 2001 to March 2002**
 
@@ -209,59 +228,50 @@ For others, check out my [web site](http://matthewturland.com/code/).
 
 ## Testimonials
 
-> It has been my distinct pleasure to work with Matthew for several years and
+> "It has been my distinct pleasure to work with Matthew for several years and
 > at several jobs now. While I was at Zend, I worked with him as a PHP
 > community member and a speaker at ZendCon, While at ibuildings we regularly
 > interacted as members of the PHPC Steering Committee. Finally at Blue
 > Parabola we briefly worked together. Each time I worked with Matthew my
 > respect for his talents grew deeper. He is a top notch programmer and a
 > strong community leader. I always look forward to projects where he and I can
-> work together and they come far too sporadically.
+> work together and they come far too sporadically." ~ Cal Evans
 
-~ Cal Evans
-
-> Adding Matthew to our team was one of the best things we could have done. Not
+> "Adding Matthew to our team was one of the best things we could have done. Not
 > only does he know his way around MySQL, PHP and PHPUnit, he was quick to pick
 > up the Jersey Java web framework and build on his Javascript knowledge to
 > contribute at all levels of our projects. On top of his code based
 > contributions, Matthew has given many presentations to fellow developers
-> outlining new technologies and how to make the most of older technologies.
+> outlining new technologies and how to make the most of older technologies."
+> ~ Carlo Costantini
 
-~ Carlo Costantini
-
-> Matt continually impressed me throughout the time we worked together as
+> "Matt continually impressed me throughout the time we worked together as
 > co-founders and business partners. Whatever bumps in the road we encountered,
 > Matt was a source of stability and dependability. We rarely saw eye to eye,
 > but I could count on Matt to be assertive, always striving for excellence.
-> Genuine and conscientious, Matt is truly a person of integrity and talent.
+> Genuine and conscientious, Matt is truly a person of integrity and talent."
+> ~ Chelsie Boudreaux
 
-~ Chelsie Boudreaux
-
-> Matt's detailed understanding of PHP and its inner-workings are perhaps
+> "Matt's detailed understanding of PHP and its inner-workings are perhaps
 > unrivaled in the industry. In addition, his understanding of object oriented
 > principles and design patterns result in code that is clean, concise, and
 > well-documented. He is a great asset to any team where efficiency and
-> attention to detail are vital to producing a flawless product.
+> attention to detail are vital to producing a flawless product." ~ Aaron Lozier
 
-~ Aaron Lozier
-
-> I've worked with Matthew in several different capacities, and I would work
+> "I've worked with Matthew in several different capacities, and I would work
 > with him again any day. He is extremely knowledgeable, dependable, and easy
 > to work with. He has a wide array of experience in PHP and related subjects,
 > and he is always willing to go above and beyond the call of duty to help a
-> fellow developer, or newbie. I look forward to working with him again.
+> fellow developer, or newbie. I look forward to working with him again."
+> ~ Elizabeth Naramore
 
-~ Elizabeth Naramore
-
-> Matthew Turland has been my student and is my friend. His extraordinary work
+> "Matthew Turland has been my student and is my friend. His extraordinary work
 > ethic, intelligence, creativity, willingness to help those around him and
 > especially to give back to the community of software developers as
 > demonstrated over the years that I have known him make it very easy to give
-> the very highest possible recommendation.
+> the very highest possible recommendation." ~ Frank Ducrest
 
-~ Frank Ducrest
-
-> In the field of open source, Matt is one of the best programmers on the Gulf
+> "In the field of open source, Matt is one of the best programmers on the Gulf
 > Coast, and was the first Zend certified engineer in Louisiana. He completely
 > rebuilt our massive booksXYZ.com website from scratch in a period of about
 > four months, working part time, and handling other programming duties at the
@@ -270,11 +280,10 @@ For others, check out my [web site](http://matthewturland.com/code/).
 > source community to stay abreast of the newest programs and engineering
 > approaches. Our programmers here at The Acadiana Educational Endowment still
 > constantly use him as a resource for advice on programming issues, and he
-> regularly updates the staff and me as to news that could affect what we do.
+> regularly updates the staff and me as to news that could affect what we do."
+> ~ Joseph Abraham
 
-~ Joseph Abraham
-
-> I have been forturnate enough to have worked with Matt twice in our
+> "I have been forturnate enough to have worked with Matt twice in our
 > respective careers. At Surgisys, I was able to work with him on an almost
 > daily basis to collaborate on the functionality and direction of the niche
 > medical software product suite the company was creating. Matt's programming
@@ -284,28 +293,21 @@ For others, check out my [web site](http://matthewturland.com/code/).
 > set of medical practice operating procedures to create an intuitive and
 > efficient user interface for Surgisys clients that proved to be an invaluable
 > and differentiating feature of our software. I would highly recommend Matt
-> and would welcome the opportunity to work with him again in the future.
+> and would welcome the opportunity to work with him again in the future."
+> ~ Douglas Meaux
 
-~ Douglas Meaux
-
-> Matthew has been a valuable asset at METHODS. I managed him on a critical
+> "Matthew has been a valuable asset at METHODS. I managed him on a critical
 > project last year. He was placed on the project during the final stages and
 > he learned quickly and helped complete the project. Without his
-> contributions, the project would not have been completed on time.
+> contributions, the project would not have been completed on time." ~ Ben Williams
 
-~ Ben Williams
-
-> I worked with Matthew on a project for the Dept. of Environmental Quality.
+> "I worked with Matthew on a project for the Dept. of Environmental Quality.
 > Matthew is knowlegdeable and detail oriented. He is sincere about getting his
-> work according to the project time line and is a good team player.
+> work according to the project time line and is a good team player." ~ Arati Kanade
 
-~ Arati Kanade
-
-> Matthew can be relied upon to deliver a high quality product on time with
+> "Matthew can be relied upon to deliver a high quality product on time with
 > little to no supervision necessary. He is pleasant to work with and takes
-> direction well.
-
-~ Elizabeth Tucker Long
+> direction well." ~ Elizabeth Tucker Long
 
 ## References
 
