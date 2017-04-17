@@ -24,6 +24,10 @@ http://wheniwork.com
 
 **Full Stack Enginer (Remote) - July 2015 to Present**
 
+* Maintained a legacy codebase using PHP or HHVM, MySQL, and the Kohana and Backbone frameworks
+* Developed an ADR framework called Equip and supporting libraries for it
+* Participated in an iterative codebase transition to use PHP 7 and the Symfony framework and React and Redux libraries
+
 ### Blopboard
 
 **Senior Engineer (Remote) - October 2013 to July 2015**
