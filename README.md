@@ -129,35 +129,35 @@ http://www.gannett.com
 
 Some notable projects I've contributed to:
 
-* PHP
-* Composer
-* Codeception
-* Goutte
-* Phing
-* Phergie
+* [PHP](https://php.net)
+* [Composer](https://getcomposer.org)
+* [Codeception](http://codeception.com)
+* [Goutte](https://github.com/FriendsOfPHP/Goutte)
+* [Phing](https://www.phing.info)
+* [Phergie](https://www.phergie.org)
 
 For others, check out my [web site](http://matthewturland.com/code/).
 
 ## Books
 
-* October 2011. SitePoint: "[PHP Master: Write Cutting-Edge Code](http://www.sitepoint.com/store/php-master-write-cutting-edge-code/)." ISBN 978-0-9870908-7-4.
-* April 2010. php|architect Press: "[php|architect’s Guide to Web Scraping with PHP](http://www.phparch.com/books/phparchitects-guide-to-web-scraping-with-php/)." ISBN 9780981034515.
+* October 2011. [SitePoint](https://www.sitepoint.com): "[PHP Master: Write Cutting-Edge Code](http://www.sitepoint.com/store/php-master-write-cutting-edge-code/)." ISBN 978-0-9870908-7-4.
+* April 2010. [php|architect Press](https://www.phparch.com): "[php|architect’s Guide to Web Scraping with PHP](http://www.phparch.com/books/phparchitects-guide-to-web-scraping-with-php/)." ISBN 9780981034515.
 
 ## Articles
 
-* October 2012. SitePoint. "Error Condition Testing with PHPUnit." [Article](https://www.sitepoint.com/testing-error-conditions-with-phpunit/).
-* September 2012. SitePoint. "The Need for Speed: Profiling with XHProf and XHGui." [Article](https://www.sitepoint.com/the-need-for-speed-profiling-with-xhprof-and-xhgui/).
-* June 2012. SitePoint. "Let's Talk: Efficient Communication for PHP and Android, Part 2." [Article](https://www.sitepoint.com/lets-talk-2/).
-* May 2012. SitePoint. "Let's Talk: Efficient Communication for PHP and Android, Part 1." [Article](https//www.sitepoint.com/lets-talk-1/).
-* December 2011. SitePoint. "PHP's Quest for Performance: from C to hhvm." [Article](https://www.sitepoint.com/phps-quest-for-performance/).
-* October 2011. SitePoint. "Documentation Makes the World Go Round." [Article](https://www.sitepoint.com/documentation-makes-the-world-go-round/).
-* October 2011. SitePoint. "Integrating Amazon S3 using PEAR." [Article](https://www.sitepoint.com/integrating-amazon-s3-using-pear/).
-* April 2011. php|architect. "Keeping Code Smelling Pretty with PHP_CodeSniffer." [Issue](https://www.phparch.com/magazine/2011-2/april/).
-* January 2011. php|architect. "New SPL Features in PHP 5.3." [Issue](https://www.phparch.com/magazine/2011-2/january/).
-* June 2009. php|architect. "CodeIgniter: Like a Moth to a Flame." [Issue](https://www.phparch.com/magazine/2009-2/june/).
-* June 2009. php|architect. "Shining a Light on Solar." [Issue](https://www.phparch.com/magazine/2009-2/june/).
-* January 2009. php|architect. "New Cert on the Block." [Issue](https://www.phparch.com/magazine/2009-2/january/).
-* December 2007. php|architect. "Web Scraping." [Issue](https://www.phparch.com/magazine/2007-2/december/).
+* October 2012. [SitePoint](https://www.sitepoint.com). "Error Condition Testing with PHPUnit." [Article](https://www.sitepoint.com/testing-error-conditions-with-phpunit/).
+* September 2012. [SitePoint](https://www.sitepoint.com). "The Need for Speed: Profiling with XHProf and XHGui." [Article](https://www.sitepoint.com/the-need-for-speed-profiling-with-xhprof-and-xhgui/).
+* June 2012. [SitePoint](https://www.sitepoint.com). "Let's Talk: Efficient Communication for PHP and Android, Part 2." [Article](https://www.sitepoint.com/lets-talk-2/).
+* May 2012. [SitePoint](https://www.sitepoint.com). "Let's Talk: Efficient Communication for PHP and Android, Part 1." [Article](https//www.sitepoint.com/lets-talk-1/).
+* December 2011. [SitePoint](https://www.sitepoint.com). "PHP's Quest for Performance: from C to hhvm." [Article](https://www.sitepoint.com/phps-quest-for-performance/).
+* October 2011. [SitePoint](https://www.sitepoint.com). "Documentation Makes the World Go Round." [Article](https://www.sitepoint.com/documentation-makes-the-world-go-round/).
+* October 2011. [SitePoint](https://www.sitepoint.com). "Integrating Amazon S3 using PEAR." [Article](https://www.sitepoint.com/integrating-amazon-s3-using-pear/).
+* April 2011. [php|architect](https://www.phparch.com). "Keeping Code Smelling Pretty with PHP_CodeSniffer." [Issue](https://www.phparch.com/magazine/2011-2/april/).
+* January 2011. [php|architect](https://www.phparch.com). "New SPL Features in PHP 5.3." [Issue](https://www.phparch.com/magazine/2011-2/january/).
+* June 2009. [php|architect](https://www.phparch.com). "CodeIgniter: Like a Moth to a Flame." [Issue](https://www.phparch.com/magazine/2009-2/june/).
+* June 2009. [php|architect](https://www.phparch.com). "Shining a Light on Solar." [Issue](https://www.phparch.com/magazine/2009-2/june/).
+* January 2009. [php|architect](https://www.phparch.com). "New Cert on the Block." [Issue](https://www.phparch.com/magazine/2009-2/january/).
+* December 2007. [php|architect](https://www.phparch.com). "Web Scraping." [Issue](https://www.phparch.com/magazine/2007-2/december/).
 
 ## Presentations
 
