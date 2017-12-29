@@ -79,6 +79,7 @@ http://www.phparch.com
 * Performed project audits for clients including evaluation of design and implementation of PHP source code using the Kohana Framework, MySQL database schemas, unit tests, documentation, and adherence to coding standards
 * Instructed online training courses covering RIA development with PHP and YUI, Zend Framework, and Magento
 * Developed a variety of data analysis solutions to assist in the migration of existing static web sites to content management systems including WordPress and Drupal
+* Conducted a data analysis project on a telecom intranet that included frequency and recency of access as well as various textual analyses
 
 ### surgiSYS
 
