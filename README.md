@@ -43,7 +43,7 @@ http://wheniwork.com
 
 ### Synacor
 
-http://synacor.com
+https://synacor.com
 
 **Principal Engineer (Remote) - February 2013 to October 2013**
 
@@ -66,7 +66,7 @@ http://www.kfx2.com
 
 ### php|architect
 
-http://www.phparch.com
+https://www.phparch.com
 
 **Technical Editor (Remote) - January 2009 to January 2010**
 
@@ -83,7 +83,7 @@ http://www.phparch.com
 
 ### surgiSYS
 
-http://surgisys.com
+https://surgisys.com
 
 **Lead Programmer - February 2008 to November 2008**
 
@@ -92,7 +92,7 @@ http://surgisys.com
 
 ### Zend Technologies
 
-http://www.zend.com
+https://www.zend.com
 
 **Consultant (Remote) - September 2007 to December 2007**
 
@@ -127,7 +127,7 @@ https://www.fireflydigital.com
 
 ### Gannett
 
-http://www.gannett.com
+https://www.gannett.com
 
 **Programmer - May 2001 to March 2002**
 
