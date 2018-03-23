@@ -20,7 +20,7 @@ to the Greater New Orleans area or are remote-friendly.
 
 ### When I Work
 
-http://wheniwork.com
+https://wheniwork.com
 
 **Senior Full Stack Enginer (Remote) - July 2017 to Present**
 
