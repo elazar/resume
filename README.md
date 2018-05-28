@@ -2,34 +2,34 @@
 
 * Based in New Orleans, LA
 * [me@matthewturland.com](mailto:matthewturland.com)
-* http://matthewturland.com
+* [matthewturland.com](https://matthewturland.com)
 
 ## Background
 
 I'm a **web developer**, **author**, **speaker**, and **mentor** with a passion
 for contributing to awesome software that enriches the lives of others.
 
-I started writing internet software in 2001, primarily using PHP. I've also
-occasionally dabbled with other languages such as JavaScript, Java, Python, and
-Ruby.
+I started writing internet software in 2001, primarily using PHP and
+JavaScript. I've also occasionally dabbled with other languages such as
+Java, Python, and Ruby.
 
-I do not consider opportunities requiring relocation, only those that are local
-to the Greater New Orleans area or are remote-friendly.
+I do not consider opportunities requiring relocation, only those that are in my
+local area or are remote-friendly.
 
 ## Experience
 
 ### When I Work
 
-https://wheniwork.com
+[wheniwork.com](https://wheniwork.com)
 
 **Senior Full Stack Enginer (Remote) - July 2017 to Present**
 
 **Full Stack Enginer (Remote) - July 2015 to June 2017**
 
-* Maintained a legacy codebase using PHP 5 and HHVM, MySQL, and the Kohana and Backbone frameworks
+* Maintained a legacy codebase using PHP 5 and HHVM, MySQL / MariaDB, and the Kohana and Backbone frameworks
 * Developed an ADR framework called [Equip](https://github.com/equip) and supporting libraries for it
 * Participated in an iterative codebase transition to use PHP 7, Symfony, React, and Redux
-* Lead a project to extract integrations functionality into a Symfony microservice backed by DynamoDB and SQS
+* Led a project to extract third-party integrations into a Symfony microservice backed by DynamoDB and SQS
 
 ### Blopboard
 
@@ -43,7 +43,7 @@ https://wheniwork.com
 
 ### Synacor
 
-https://synacor.com
+[synacor.com](https://synacor.com)
 
 **Principal Engineer (Remote) - February 2013 to October 2013**
 
@@ -56,7 +56,7 @@ https://synacor.com
 
 ### K-fx2
 
-http://www.kfx2.com
+[kfx2.com](http://www.kfx2.com)
 
 **Developer (Remote) - February 2010 to April 2010**
 
@@ -66,7 +66,7 @@ http://www.kfx2.com
 
 ### php|architect
 
-https://www.phparch.com
+[phparch.com](https://www.phparch.com)
 
 **Technical Editor (Remote) - January 2009 to January 2010**
 
@@ -83,7 +83,7 @@ https://www.phparch.com
 
 ### surgiSYS
 
-https://surgisys.com
+[surgisys.com](https://surgisys.com)
 
 **Lead Programmer - February 2008 to November 2008**
 
@@ -92,7 +92,7 @@ https://surgisys.com
 
 ### Zend Technologies
 
-https://www.zend.com
+[zend.com](https://www.zend.com)
 
 **Consultant (Remote) - September 2007 to December 2007**
 
@@ -100,7 +100,7 @@ https://www.zend.com
 
 ### METHODS Technology Solutions
 
-http://www.methods-net.com
+[methods-net.com](http://www.methods-net.com)
 
 **Programmer - August 2006 to February 2008**
 
@@ -117,7 +117,7 @@ http://www.methods-net.com
 
 ### Firefly Digital
 
-https://www.fireflydigital.com
+[fireflydigital.com](https://www.fireflydigital.com)
 
 **Software Architect - March 2002 to August 2005**
 
@@ -127,7 +127,7 @@ https://www.fireflydigital.com
 
 ### Gannett
 
-https://www.gannett.com
+[gannett.com](https://www.gannett.com)
 
 **Programmer - May 2001 to March 2002**
 
@@ -139,17 +139,17 @@ Some notable projects I've contributed to:
 
 * [PHP](https://php.net)
 * [Composer](https://getcomposer.org)
-* [Codeception](http://codeception.com)
+* [Codeception](https://codeception.com)
 * [Goutte](https://github.com/FriendsOfPHP/Goutte)
 * [Phing](https://www.phing.info)
 * [Phergie](https://www.phergie.org)
 
-For others, check out my [web site](http://matthewturland.com/code/).
+For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Books
 
-* October 2011. [SitePoint](https://www.sitepoint.com): "[PHP Master: Write Cutting-Edge Code](http://www.sitepoint.com/store/php-master-write-cutting-edge-code/)." ISBN 978-0-9870908-7-4.
-* April 2010. [php|architect Press](https://www.phparch.com): "[php|architect’s Guide to Web Scraping with PHP](http://www.phparch.com/books/phparchitects-guide-to-web-scraping-with-php/)." ISBN 9780981034515.
+* October 2011. [SitePoint](https://www.sitepoint.com): "[PHP Master: Write Cutting-Edge Code](https://www.sitepoint.com/store/php-master-write-cutting-edge-code/)." ISBN 978-0-9870908-7-4.
+* April 2010. [php|architect Press](https://www.phparch.com): "[php|architect’s Guide to Web Scraping with PHP](https://www.phparch.com/books/phparchitects-guide-to-web-scraping-with-php/)." ISBN 9780981034515.
 
 ## Articles
 
@@ -169,64 +169,64 @@ For others, check out my [web site](http://matthewturland.com/code/).
 
 ## Presentations
 
-* February 2017. [Nomad PHP](https://nomadphp.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
-* July 2016. [Barcamp NOLA](http://barcampnola.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
-* July 2016. [Minnesota PHP User Group](http://www.meetup.com/mn-php/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=LTxaCmCJhs0).
-* May 2016. [Louisiana Drupal User Group](https://www.meetup.com/louisianadrupal/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
-* May 2016. [php[tek]](http://tek.phparch.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
-* May 2016. [php[tek]](http://tek.phparch.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=da4Sl3iS8bI).
-* April 2016. [Syracuse PHP User Group](http://www.meetup.com/PHPSyracuse/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
-* April 2016. [Lone Star PHP](http://lonestarphp.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
-* March 2016. [Midwest PHP](http://2016.midwestphp.org/). "Data Structures in PHP." [Slides](http://matthewturland.com/slides/datastructures).
-* February 2016. [PHP UK](http://phpconference.co.uk/). "Mocking Dependencies in Unit Tests with Phake." [Slides](http://matthewturland.com/slides/phake/), [Video](https://www.youtube.com/watch?v=6fNL5U1FUiI).
-* October 2015. [Nomad PHP](https://nomadphp.com/). "Data Structures in PHP." [Slides](http://matthewturland.com/slides/datastructures).
-* October 2015. [ZendCon](http://zendcon.com/). "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial/).
-* October 2015. [ZendCon](http://zendcon.com/). "Testing APIs with Codeception." [Slides](http://matthewturland.com/slides/codeception/).
-* May 2015. [php[tek]](http://tek.phparch.com/). "Mocking Dependencies in Unit Tests with Phake." [Slides](http://matthewturland.com/slides/phake/).
-* May 2015. [php[tek]](http://tek.phparch.com/). "Data Structures in PHP." [Slides](http://matthewturland.com/slides/datastructures).
-* November 2014. [php[world]](http://world.phparch.com/). "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop-tutorial), [Video](https://www.youtube.com/watch?v=oAaNHGK1kNk).
-* August 2014. [gnocode](http://www.meetup.com/gnocode/). "IRC-Driven Development with Phergie." [Slides](http://matthewturland.com/slides/ircdd/).
-* November 2013. [True North PHP](http://truenorthphp.com/). "Database Testing for Fun and Profit." [Slides](http://matthewturland.com/slides/phpunit-db/).
-* November 2013. [True North PHP](http://truenorthphp.com/). "Unit Testing JavaScript with QUnit and Sinon." [Slides](http://matthewturland.com/slides/jstesting/).
-* September 2013. [php[architect] PHP 5.5 Web Summit](https://joind.in/event/phparchitect-php-55-web-summit). "New OOP Features in PHP 5.5." [Slides](http://matthewturland.com/slides/php55oop/).
-* July 2013. [Barcamp NOLA](http://barcampnola.com/). "Hacking Your Finances for Fun and Profit." [Slides](http://matthewturland.com/slides/ledger-stats/).
-* June 2013. [Lone Star PHP](http://lonestarphp.com/). "The OOP in PHP." [Slides](http://matthewturland.com/slides/phpoop).
-* February 2013. [SunshinePHP](http://sunshinephp.com/). "Database Testing for Fun and Profit." [Slides](http://matthewturland.com/slides/phpunit-db/).
-* February 2013. [Zend Webinar](https://www.zend.com/en/webinars/recorded/show/312_let's+talk+efficient+communication+for+php+and+android). "Let’s Talk: Efficient Communication between PHP and Android." [Slides](http://matthewturland.com/slides/php-android).
-* March 2012. [UB Hacking](http://ubhacking.com/). "Getting Involved in Open Source."
-* March 2012. [UB Hacking](http://ubhacking.com/). "Introduction to Android Development."
+* February 2017. [Nomad PHP](https://nomadphp.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
+* July 2016. [Barcamp NOLA](http://barcampnola.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
+* July 2016. [Minnesota PHP User Group](https://www.meetup.com/mn-php/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=LTxaCmCJhs0).
+* May 2016. [Louisiana Drupal User Group](https://www.meetup.com/louisianadrupal/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
+* May 2016. [php[tek]](https://tek.phparch.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
+* May 2016. [php[tek]](https://tek.phparch.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=da4Sl3iS8bI).
+* April 2016. [Syracuse PHP User Group](https://www.meetup.com/PHPSyracuse/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
+* April 2016. [Lone Star PHP](http://lonestarphp.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
+* March 2016. [Midwest PHP](https://2016.midwestphp.org/). "Data Structures in PHP." [Slides](https://matthewturland.com/slides/datastructures).
+* February 2016. [PHP UK](https://phpconference.co.uk/). "Mocking Dependencies in Unit Tests with Phake." [Slides](https://matthewturland.com/slides/phake/), [Video](https://www.youtube.com/watch?v=6fNL5U1FUiI).
+* October 2015. [Nomad PHP](https://nomadphp.com/). "Data Structures in PHP." [Slides](https://matthewturland.com/slides/datastructures).
+* October 2015. [ZendCon](http://zendcon.com/). "The OOP in PHP." [Slides](https://matthewturland.com/slides/phpoop-tutorial/).
+* October 2015. [ZendCon](http://zendcon.com/). "Testing APIs with Codeception." [Slides](https://matthewturland.com/slides/codeception/).
+* May 2015. [php[tek]](https://tek.phparch.com/). "Mocking Dependencies in Unit Tests with Phake." [Slides](https://matthewturland.com/slides/phake/).
+* May 2015. [php[tek]](https://tek.phparch.com/). "Data Structures in PHP." [Slides](https://matthewturland.com/slides/datastructures).
+* November 2014. [php[world]](https://world.phparch.com/). "The OOP in PHP." [Slides](https://matthewturland.com/slides/phpoop-tutorial), [Video](https://www.youtube.com/watch?v=oAaNHGK1kNk).
+* August 2014. [gnocode](https://www.meetup.com/gnocode/). "IRC-Driven Development with Phergie." [Slides](https://matthewturland.com/slides/ircdd/).
+* November 2013. True North PHP. "Database Testing for Fun and Profit." [Slides](https://matthewturland.com/slides/phpunit-db/).
+* November 2013. True North PHP. "Unit Testing JavaScript with QUnit and Sinon." [Slides](https://matthewturland.com/slides/jstesting/).
+* September 2013. [php[architect] PHP 5.5 Web Summit](https://joind.in/event/phparchitect-php-55-web-summit). "New OOP Features in PHP 5.5." [Slides](https://matthewturland.com/slides/php55oop/).
+* July 2013. [Barcamp NOLA](http://barcampnola.com/). "Hacking Your Finances for Fun and Profit." [Slides](https://matthewturland.com/slides/ledger-stats/).
+* June 2013. [Lone Star PHP](http://lonestarphp.com/). "The OOP in PHP." [Slides](https://matthewturland.com/slides/phpoop).
+* February 2013. [SunshinePHP](http://sunshinephp.com/). "Database Testing for Fun and Profit." [Slides](https://matthewturland.com/slides/phpunit-db/).
+* February 2013. [Zend Webinar](https://www.zend.com/en/webinars/recorded/show/312_let's+talk+efficient+communication+for+php+and+android). "Let’s Talk: Efficient Communication between PHP and Android." [Slides](https://matthewturland.com/slides/php-android).
+* March 2012. [UB Hacking](https://ubhacking.com/). "Getting Involved in Open Source."
+* March 2012. [UB Hacking](https://ubhacking.com/). "Introduction to Android Development."
 * December 2011. NOLA PHP. "Accessing Web Resources with PHP."
 * June 2011. Buffalo Google Technology Users Group. "Introduction to Android Development."
-* May 2011. [php|tek](http://tek.phparch.com/). "Accessing Web Resources with PHP."
-* May 2011. [php|tek](http://tek.phparch.com/). "Creating Desktop Applications with Titanium and PHP."
-* May 2011. [php|tek](http://tek.phparch.com/). "Introduction to Android Development."
-* March 2011. [Confoo](http://confoo.ca/). "Building RESTful Web Services with Jersey." [Slides](http://matthewturland.com/slides/jersey/).
-* February 2011. Zend Webinar. "New SPL Features in PHP 5.3." [Slides](http://matthewturland.com/slides/spl/).
-* January 2011. Acadiana Open Source Group. "Getting Involved in Open Source." [Slides](http://matthewturland.com/slides/oss/).
-* December 2010. [Buffalo PHP User Group](https://www.meetup.com/buffalophp/). "New SPL Features in PHP 5.3." [Slides](http://matthewturland.com/slides/spl/).
-* May 2010. [php|tek](http://tek.phparch.com/). "New SPL Features in PHP 5.3." [Slides](http://matthewturland.com/slides/spl/).
-* June 2009. CodeWorks Webcast Series. "New SPL Features in PHP 5.3." [Slides](http://www.slideshare.net/tobias382/new-spl-features-in-php-53), [Video](http://mtadata.s3.amazonaws.com/webcasts/20090623-spl.wmv).
-* May 2009. [php|tek](http://tek.phparch.com/). "Web Scraping with PHP." [Slides](http://www.slideshare.net/tobias382/web-scraping-with-php-1485427).
-* February 2009. php|tek Webcast Series. "When RSS Fails: Web Scraping with HTTP." [Slides](http://www.slideshare.net/tobias382/when-rss-fails-web-scraping-with-http).
-* November 2008. Atlanta Web Designers Group. "PHP Basics for Designers." [Slides](http://www.slideshare.net/tobias382/php-basics-for-designers-presentation).
-* September 2008. [ZendCon](http://zendcon.com/). "Creating Web Services with Zend Framework." [Slides](http://www.slideshare.net/tobias382/creating-web-services-with-zend-framework-presentation).
-* September 2008. [ZendCon](http://zendcon.com/). "Web Scraping with PHP." [Slides](http://www.slideshare.net/tobias382/web-scraping-with-php-presentation).
-* April 2008. Acadiana Open Source Group. "Getting Involved in Open Source." [Slides](http://www.slideshare.net/tobias382/acadiana-open-source-group-april-2008-meeting).
+* May 2011. [php|tek](https://tek.phparch.com/). "Accessing Web Resources with PHP."
+* May 2011. [php|tek](https://tek.phparch.com/). "Creating Desktop Applications with Titanium and PHP."
+* May 2011. [php|tek](https://tek.phparch.com/). "Introduction to Android Development."
+* March 2011. [Confoo](https://confoo.ca/). "Building RESTful Web Services with Jersey." [Slides](https://matthewturland.com/slides/jersey/).
+* February 2011. Zend Webinar. "New SPL Features in PHP 5.3." [Slides](https://matthewturland.com/slides/spl/).
+* January 2011. Acadiana Open Source Group. "Getting Involved in Open Source." [Slides](https://matthewturland.com/slides/oss/).
+* December 2010. [Buffalo PHP User Group](https://www.meetup.com/buffalophp/). "New SPL Features in PHP 5.3." [Slides](https://matthewturland.com/slides/spl/).
+* May 2010. [php|tek](https://tek.phparch.com/). "New SPL Features in PHP 5.3." [Slides](https://matthewturland.com/slides/spl/).
+* June 2009. CodeWorks Webcast Series. "New SPL Features in PHP 5.3." [Slides](https://www.slideshare.net/tobias382/new-spl-features-in-php-53), [Video](https://mtadata.s3.amazonaws.com/webcasts/20090623-spl.wmv).
+* May 2009. [php|tek](https://tek.phparch.com/). "Web Scraping with PHP." [Slides](https://www.slideshare.net/tobias382/web-scraping-with-php-1485427).
+* February 2009. php|tek Webcast Series. "When RSS Fails: Web Scraping with HTTP." [Slides](https://www.slideshare.net/tobias382/when-rss-fails-web-scraping-with-http).
+* November 2008. Atlanta Web Designers Group. "PHP Basics for Designers." [Slides](https://www.slideshare.net/tobias382/php-basics-for-designers-presentation).
+* September 2008. [ZendCon](http://zendcon.com/). "Creating Web Services with Zend Framework." [Slides](https://www.slideshare.net/tobias382/creating-web-services-with-zend-framework-presentation).
+* September 2008. [ZendCon](http://zendcon.com/). "Web Scraping with PHP." [Slides](https://www.slideshare.net/tobias382/web-scraping-with-php-presentation).
+* April 2008. Acadiana Open Source Group. "Getting Involved in Open Source." [Slides](https://www.slideshare.net/tobias382/acadiana-open-source-group-april-2008-meeting).
 
 ## Podcasts
 
 * December 2012. [/dev/hell](http://devhell.info/). "Episode #24: Members Only." [Podcast](http://devhell.info/post/2012-12-14/members-only/).
 * December 2011. [Engine Yard](https://www.engineyard.com). "PHP Master: Write Cutting-Edge Code." [Podcast](https://www.engineyard.com/categories/s01e51-php-master-writing-cutting-edge-code-).
-* March 2010. [php|architect](https://www.phparch.com). "Episode 5 - Phergie." [Podcast](http://mtadata.s3.amazonaws.com/podcasts/20100316.mp3), [Show Notes](https://www.phparch.com/2010/03/oddweek-episode-5/).
+* March 2010. [php|architect](https://www.phparch.com). "Episode 5 - Phergie." [Podcast](https://mtadata.s3.amazonaws.com/podcasts/20100316.mp3), [Show Notes](https://www.phparch.com/2010/03/oddweek-episode-5/).
 
 ## Community Involvement
 
 * 2012 - Present. Mentor, [PHP Mentoring Program](http://phpmentoring.org/).
-* 2007 - 2015. Lead Developer, [Phergie Project](http://phergie.org/).
+* 2007 - 2015. Lead Developer, [Phergie Project](https://www.phergie.org/).
 * 2008 - 2015. Organizer, Acadiana Open Source Group.
 * 2008 - 2012. Mentor, [PHP Women](http://phpwomen.org/) Big Sis / Little Sis Program.
-* 2007 - 2008. Member, [Baton Rouge Oracle User Group](http://www.broug.org/).
-* 2006 - 2010. Contributor, [Zend Framework Project](http://framework.zend.com/).
+* 2007 - 2008. Member, Baton Rouge Oracle User Group.
+* 2006 - 2010. Contributor, [Zend Framework Project](https://framework.zend.com/).
 
 ## Education
 
