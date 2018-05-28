@@ -40,6 +40,7 @@ local area or are remote-friendly.
 * Refactored existing API code into background workers, initially using SQS and later Resque
 * Migrated an existing user notification system to use Redis instead of MySQL
 * Set up and maintained logging infrastructure that included Monolog, Elasticsearch, Logstash, and Kibana
+* Integrated with AWS OpsWorks to trigger a deployment system using a Phergie IRC bot plugin
 
 ### Synacor
 
