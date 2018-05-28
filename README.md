@@ -37,7 +37,7 @@ local area or are remote-friendly.
 
 * Maintained an existing REST API using nginx, MySQL, memcached, PHP, and the Slim framework and developed its functional test suite using Codeception
 * Developed additional microservices using Silex, MySQL, and Redis
-* Refactored existing API code into background workers, initially using Amazon SQS and later Resque
+* Refactored existing API code into background workers, initially using SQS and later Resque
 * Migrated an existing user notification system to use Redis instead of MySQL
 * Set up and maintained logging infrastructure that included Monolog, Elasticsearch, Logstash, and Kibana
 
