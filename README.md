@@ -22,9 +22,9 @@ local area or are remote-friendly.
 
 [wheniwork.com](https://wheniwork.com)
 
-**Senior Full Stack Enginer (Remote) - July 2017 to Present**
+**Senior Full Stack Engineer (Remote) - July 2017 to Present**
 
-**Full Stack Enginer (Remote) - July 2015 to June 2017**
+**Full Stack Engineer (Remote) - July 2015 to June 2017**
 
 * Maintained a legacy codebase using PHP 5 and HHVM, MySQL / MariaDB, and the Kohana and Backbone frameworks
 * Developed an ADR framework called [Equip](https://github.com/equip) and supporting libraries for it
