@@ -13,9 +13,6 @@ I started writing internet software in 2001, primarily using PHP and
 JavaScript. I've also occasionally dabbled with other languages such as
 Java, Python, and Ruby.
 
-I do not consider opportunities requiring relocation, only those that are in my
-local area or are remote-friendly.
-
 ## Experience
 
 ### When I Work
