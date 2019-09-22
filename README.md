@@ -15,11 +15,22 @@ Java, Python, and Ruby.
 
 ## Experience
 
+### Waitr
+
+[waitrapp.com](https://waitrapp.com)
+
+**Software Engineer III (Remote) - November 2018 to Present**
+
+* Maintained a legacy monolith using PHP 7, MySQL, and the Slim framework
+* Maintained a series of microservices built on Node, PostgreSQL, and the Restify framework
+* Participated in a full-stack scrum team tasked with adding major features affecting multiple services
+* Developed Docker configuration to automate installation of and running backend services for local development
+
 ### When I Work
 
 [wheniwork.com](https://wheniwork.com)
 
-**Senior Full Stack Engineer (Remote) - July 2017 to Present**
+**Senior Full Stack Engineer (Remote) - July 2017 to November 2018**
 
 **Full Stack Engineer (Remote) - July 2015 to June 2017**
 
@@ -146,6 +157,7 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Books
 
+* August 2019. [php[architect]](https://www.phparch.com): "[Web Scraping with PHP, 2nd Edition](https://www.phparch.com/books/web-scraping-with-php-2nd-edition/)." ISBN 978-1940111674.
 * October 2011. [SitePoint](https://www.sitepoint.com): "[PHP Master: Write Cutting-Edge Code](https://www.sitepoint.com/store/php-master-write-cutting-edge-code/)." ISBN 978-0-9870908-7-4.
 * April 2010. [php|architect Press](https://www.phparch.com): "[php|architect’s Guide to Web Scraping with PHP](https://www.phparch.com/books/phparchitects-guide-to-web-scraping-with-php/)." ISBN 9780981034515.
 
@@ -167,6 +179,9 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Presentations
 
+* September 2017. [Madison PHP Conference](http://2017.madisonphpconference.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
+* July 2017. [CoderCruise](https://www.codercruise.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
+* July 2017. [CoderCruise](https://www.codercruise.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
 * February 2017. [Nomad PHP](https://nomadphp.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
 * July 2016. [Barcamp NOLA](http://barcampnola.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
 * July 2016. [Minnesota PHP User Group](https://www.meetup.com/mn-php/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=LTxaCmCJhs0).
@@ -213,6 +228,10 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Podcasts
 
+* August 2019. [Voices of the ElePHPant](https://voicesoftheelephpant.com/). "Interview with Matthew Turland." [Podcast](https://voicesoftheelephpant.com/2019/08/13/interview-with-matthew-turland/).
+* August 2016. [Voices of the ElePHPant](https://voicesoftheelephpant.com/). "Interview with Matthew Turland." [Podcast](https://voicesoftheelephpant.com/2016/08/16/interview-matthew-turland/).
+* June 2016. [Hackers & Hearthstone](http://www.hackersandhearthstone.com/). "Episode #6: Mentoring." [Vidcast](https://www.youtube.com/watch?v=uNv-6XcNGXs).
+* May 2016. [Free the Geek](http://freethegeek.fm). "Episode #18: Talking Conferences and Mental Health." [Podcast](http://freethegeek.fm/episode/episode-0018).
 * December 2012. [/dev/hell](http://devhell.info/). "Episode #24: Members Only." [Podcast](http://devhell.info/post/2012-12-14/members-only/).
 * December 2011. [Engine Yard](https://www.engineyard.com). "PHP Master: Write Cutting-Edge Code." [Podcast](https://www.engineyard.com/categories/s01e51-php-master-writing-cutting-edge-code-).
 * March 2010. [php|architect](https://www.phparch.com). "Episode 5 - Phergie." [Podcast](https://mtadata.s3.amazonaws.com/podcasts/20100316.mp3), [Show Notes](https://www.phparch.com/2010/03/oddweek-episode-5/).
