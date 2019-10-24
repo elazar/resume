@@ -25,6 +25,7 @@ Java, Python, and Ruby.
 * Maintained a series of microservices built on Node, PostgreSQL, and the Restify framework
 * Participated in a full-stack scrum team tasked with adding major features affecting multiple services
 * Developed Docker configuration to automate installation of and running backend services for local development
+* Authored a new end-to-end test suite based on Cypress and Cucumber
 
 ### When I Work
 
