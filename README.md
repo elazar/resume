@@ -161,8 +161,8 @@ Some notable projects I've contributed to:
 * [PHP](https://php.net)
 * [Composer](https://getcomposer.org)
 * [Codeception](https://codeception.com)
-* [Goutte](https://github.com/FriendsOfPHP/Goutte)
-* [Phing](https://www.phing.info)
+* [Slim](https://slimframework.com)
+* [Enqueue](https://enqueue.forma-pro.com)
 * [Phergie](https://www.phergie.org)
 
 For others, check out my [web site](https://matthewturland.com/code/).
