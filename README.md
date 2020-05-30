@@ -21,6 +21,11 @@ Java, Python, and Ruby.
 
 **Senior Software Engineer (Remote) - February 2020 to Present**
 
+* Maintained and added features to existing services based on PHP 7/Laravel, Python/Flask, and Mongo
+* Created a customized PHP project skeleton extending Slim to support rapid application development
+* Created new services to integrate with third parties based on PHP 7/Slim, Node/Express, and Mongo
+* Authored documentation for project creation and deployment using Kong and Kubernetes
+
 ### Waitr
 
 [waitrapp.com](https://waitrapp.com)
