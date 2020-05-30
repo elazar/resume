@@ -245,7 +245,7 @@ For others, check out my [web site](https://matthewturland.com/code/).
 ## Podcasts
 
 * January 2020. [Free the Geek](http://freethegeek.fm). "Episode 34: Talking with Matthew Turland About Updating Technical Books and Programming in Multiple Languages + Loads More!" [Podcast](https://www.freethegeek.fm/34).
-* January 2020. [php[architect]]. "Arrays in PHP, Web Browsers, Security Habits, and Matthew Turland." [Podcast](https://www.phparch.com/podcast/arrays-in-php-web-browsers-security-habits-and-matthew-turland/).
+* January 2020. [php[architect]](https://phparch.com). "Arrays in PHP, Web Browsers, Security Habits, and Matthew Turland." [Podcast](https://www.phparch.com/podcast/arrays-in-php-web-browsers-security-habits-and-matthew-turland/).
 * August 2019. [Voices of the ElePHPant](https://voicesoftheelephpant.com/). "Interview with Matthew Turland." [Podcast](https://voicesoftheelephpant.com/2019/08/13/interview-with-matthew-turland/).
 * August 2016. [Voices of the ElePHPant](https://voicesoftheelephpant.com/). "Interview with Matthew Turland." [Podcast](https://voicesoftheelephpant.com/2016/08/16/interview-matthew-turland/).
 * June 2016. [Hackers & Hearthstone](http://www.hackersandhearthstone.com/). "Episode #6: Mentoring." [Vidcast](https://www.youtube.com/watch?v=uNv-6XcNGXs).
