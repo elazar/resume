@@ -193,9 +193,11 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Presentations
 
-* September 2017. [Madison PHP Conference](http://2017.madisonphpconference.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
-* July 2017. [CoderCruise](https://www.codercruise.com/). "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer).
-* July 2017. [CoderCruise](https://www.codercruise.com/). "Effective Redis for PHP Developers." [Slides](http://matthewturland.com/slides/effective-redis/).
+* April 2020. [Midwest PHP](https://midwestphp.org/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer/).
+* February 2020. [Sunshine PHP](https://sunshinephp.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
+* September 2017. [Madison PHP Conference](http://2017.madisonphpconference.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
+* July 2017. [CoderCruise](https://www.codercruise.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
+* July 2017. [CoderCruise](https://www.codercruise.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
 * February 2017. [Nomad PHP](https://nomadphp.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
 * July 2016. [Barcamp NOLA](http://barcampnola.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
 * July 2016. [Minnesota PHP User Group](https://www.meetup.com/mn-php/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer), [Video](https://www.youtube.com/watch?v=LTxaCmCJhs0).
