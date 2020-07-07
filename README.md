@@ -1,7 +1,7 @@
 # Matthew Turland
 
 * Based in New Orleans, LA
-* [me@matthewturland.com](mailto:matthewturland.com)
+* [me@matthewturland.com](mailto:me@matthewturland.com)
 * [matthewturland.com](https://matthewturland.com)
 
 ## Background
@@ -256,7 +256,7 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Community Involvement
 
-* 2012 - Present. Mentor, [PHP Mentoring Program](http://phpmentoring.org/).
+* 2012 - Present. Mentor, [PHP Mentoring Program](https://php-mentoring.org/).
 * 2007 - 2015. Lead Developer, [Phergie Project](https://www.phergie.org/).
 * 2008 - 2015. Organizer, Acadiana Open Source Group.
 * 2008 - 2012. Mentor, [PHP Women](http://phpwomen.org/) Big Sis / Little Sis Program.
