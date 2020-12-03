@@ -175,6 +175,7 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Articles
 
+* December 2020. [php[architect]](https://phparch.com). "PHP 8 Distilled." [Issue](https://www.phparch.com/magazine/2020/12/php-8-bits-and-git/).
 * January 2020. [php[architect]](https://phparch.com). "Object-Oriented Programming: A Primer, Part Two." [Issue](https://www.phparch.com/magazine/2020/01/new-habits/).
 * November 2019. [php[architect]](https://phparch.com). "Object-Oriented Programming: A Primer, Part One." [Issue](https://www.phparch.com/magazine/2019/11/object-orientation/).
 * October 2012. [SitePoint](https://www.sitepoint.com). "Error Condition Testing with PHPUnit." [Article](https://www.sitepoint.com/testing-error-conditions-with-phpunit/).
