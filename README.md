@@ -1,17 +1,26 @@
 # Matthew Turland
 
-* Based in New Orleans, LA
+* Based in New Orleans, Louisiana
+* Not currently available for opportunities requiring relocation
 * [me@matthewturland.com](mailto:me@matthewturland.com)
 * [matthewturland.com](https://matthewturland.com)
 
 ## Background
 
-I'm a **web developer**, **author**, **speaker**, and **mentor** with a passion
-for contributing to awesome software that enriches the lives of others.
+I'm a **software engineer**, **author**, **speaker**, and **mentor** with a
+passion for contributing to awesome software that enriches the lives of others
+and helping software engineers be better at what they do.
 
-I started writing internet software in 2001, primarily using PHP and
-JavaScript. I've also occasionally dabbled with other languages such as
-Java, Python, and Ruby.
+Most of my recent experience is as a senior individual contributor or team lead
+for PHP-based backend services.
+
+## Skills
+
+* Languages: PHP, JavaScript/Node, Python, SQL
+* Frameworks: Slim, Symfony, Laravel, Express, Flask
+* Databases: MySQL/MariaDB, Redis, PostgreSQL, Mongo
+* Testing: PHPUnit, Mocha, Jest
+* Infrastructure: AWS, Docker, Kubernetes
 
 ## Experience
 
@@ -19,12 +28,12 @@ Java, Python, and Ruby.
 
 [stacksports.com](https://stacksports.com)
 
-**Senior Software Engineer (Remote) - February 2020 to Present**
+**Senior Software Engineer / Team Lead (Remote) - February 2020 to Present**
 
 * Maintained and added features to existing services based on PHP 7/Laravel, Python/Flask, and Mongo
-* Created a customized PHP project skeleton extending Slim to support rapid application development
-* Created new services to integrate with third parties based on PHP 7/Slim, Node/Express, and Mongo
-* Authored documentation for project creation and deployment using Kong and Kubernetes
+* Contributed to new services based on PHP 7/Slim, Node/Express, and Mongo to integrate with third parties
+* Developed and documented processes for project creation and deployment using Kong and Kubernetes
+* Set the standard for team project documentation used by individual contributors
 
 ### Waitr
 
@@ -32,9 +41,8 @@ Java, Python, and Ruby.
 
 **Software Engineer III (Remote) - November 2018 to January 2020**
 
-* Maintained a legacy monolith using PHP 7, MySQL, and the Slim framework
-* Maintained a series of microservices built on Node, PostgreSQL, and the Restify framework
-* Participated in a full-stack scrum team tasked with adding major features affecting multiple services
+* Maintained a legacy monolith using PHP 7, MySQL, and Slim
+* Maintained a series of microservices built on Node, PostgreSQL, and Restify
 * Developed Docker configuration to automate installation of and running backend services for local development
 * Authored a new end-to-end test suite based on Cypress and Cucumber
 
@@ -55,12 +63,12 @@ Java, Python, and Ruby.
 
 **Senior Engineer (Remote) - October 2013 to July 2015**
 
-* Maintained an existing REST API using nginx, MySQL, memcached, PHP, and the Slim framework and developed its functional test suite using Codeception
+* Maintained an existing REST API using nginx, MySQL, memcached, PHP, Slim, and Codeception
 * Developed additional microservices using Silex, MySQL, and Redis
 * Refactored existing API code into background workers, initially using SQS and later Resque
-* Migrated an existing user notification system to use Redis instead of MySQL
+* Migrated storage for an existing user notification system from MySQL to Redis
 * Set up and maintained logging infrastructure that included Monolog, Elasticsearch, Logstash, and Kibana
-* Integrated with AWS OpsWorks to trigger a deployment system using a Phergie IRC bot plugin
+* Integrated with AWS OpsWorks to create a deployment system
 
 ### Synacor
 
@@ -97,7 +105,7 @@ Java, Python, and Ruby.
 
 **Senior Consultant (Remote) - November 2008 to February 2010**
 
-* Performed project audits for clients including evaluation of design and implementation of PHP source code using the Kohana Framework, MySQL database schemas, unit tests, documentation, and adherence to coding standards
+* Performed project audits for clients including evaluation of design and implementation of PHP source code using Kohana, MySQL database schemas, unit tests, documentation, and adherence to coding standards
 * Instructed online training courses covering RIA development with PHP and YUI, Zend Framework, and Magento
 * Developed a variety of data analysis solutions to assist in the migration of existing static web sites to content management systems including WordPress and Drupal
 * Conducted a data analysis project on a telecom intranet that included frequency and recency of access as well as various textual analyses
