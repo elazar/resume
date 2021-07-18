@@ -30,9 +30,10 @@ for PHP-based backend services.
 
 **Senior Software Engineer / Team Lead (Remote) - February 2020 to Present**
 
+* Managed a summer intern who made significant contributions to React and PHP codebases and documentation
 * Maintained and added features to existing services based on PHP 7/Laravel, Python/Flask, and Mongo
-* Contributed to new services based on PHP 7/Slim, Node/Express, and Mongo to integrate with third parties
-* Developed and documented processes for project creation and deployment using Kong and Kubernetes
+* Contributed to new services built with PHP 7/Slim, Node/Express, Mongo, OpenAPI, and third-party integrations
+* Developed and documented processes for project creation, acceptance, and deployment
 * Set the standard for team project documentation used by individual contributors
 
 ### Waitr
