@@ -1,6 +1,6 @@
 # Matthew Turland
 
-* Based in New Orleans, Louisiana
+* Based in Lafayette, Louisiana
 * Not currently available for opportunities requiring relocation
 * [me@matthewturland.com](mailto:me@matthewturland.com)
 * [matthewturland.com](https://matthewturland.com)
