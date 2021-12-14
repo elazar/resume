@@ -203,6 +203,8 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Presentations
 
+* October 2021. [Longhorn PHP](https://www.longhornphp.com/). Keynote: "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Feedback](https://joind.in/event/longhorn-php-conference-2021/what-makes-a-great-developer).
+* October 2021. [Longhorn PHP](https://www.longhornphp.com/). Tutorial: "The OOP in PHP." [Slides](https://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/longhorn-php-conference-2021/the-oop-in-php).
 * April 2020. [Midwest PHP](https://midwestphp.org/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer/).
 * February 2020. [Sunshine PHP](https://sunshinephp.com/). "Effective Redis for PHP Developers." [Slides](https://matthewturland.com/slides/effective-redis/).
 * September 2017. [Madison PHP Conference](http://2017.madisonphpconference.com/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer).
