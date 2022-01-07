@@ -12,23 +12,31 @@ passion for contributing to awesome software that enriches the lives of others
 and helping software engineers be better at what they do.
 
 Most of my recent experience is as a senior individual contributor or team lead
-for PHP-based backend services.
+for backend services.
 
 ## Skills
 
-* Languages: PHP, JavaScript/Node, Python, SQL
+* Languages: PHP, JavaScript/Node/TypeScript, Python, SQL
 * Frameworks: Slim, Symfony, Laravel, Express, Flask
-* Databases: MySQL/MariaDB, Redis, PostgreSQL, Mongo
+* Databases: PostgreSQL, MySQL/MariaDB, Redis, Mongo, Elasticsearch
 * Testing: PHPUnit, Mocha, Jest
 * Infrastructure: AWS, Docker, Kubernetes
 
 ## Experience
 
+### Rheaply
+
+[rheaply.com](https://rheaply.com)
+
+**Software Engineer (Remote) - January 2022 to Present**
+
+* Contributing to an asset management service backend built on TypeScript, PostgreSQL, Elasticsearch, and AWS services
+
 ### Stack Sports
 
 [stacksports.com](https://stacksports.com)
 
-**Senior Software Engineer / Team Lead (Remote) - February 2020 to Present**
+**Senior Software Engineer / Team Lead (Remote) - February 2020 to January 2022**
 
 * Managed a summer intern who made significant contributions to React and PHP codebases and documentation
 * Maintained and added features to existing services based on PHP 7/Laravel, Python/Flask, and Mongo
