@@ -20,7 +20,7 @@ for backend services.
 * Frameworks: Slim, Symfony, Laravel, Express, Flask
 * Databases: PostgreSQL, MySQL/MariaDB, Redis, Mongo, Elasticsearch
 * Testing: PHPUnit, Mocha, Jest
-* Infrastructure: AWS, Docker, Kubernetes
+* Infrastructure: AWS, Docker
 
 ## Experience
 
