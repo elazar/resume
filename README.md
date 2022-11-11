@@ -211,6 +211,7 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Presentations
 
+* November 2022. [Longhorn PHP](https://www.longhornphp.com/). "Automating the Web" [Slides](http://matthewturland.com/slides/automating-the-web), [Feedback](https://joind.in/event/longhorn-php-conference-2022/automating-the-web).
 * October 2021. [Longhorn PHP](https://www.longhornphp.com/). Keynote: "What Makes a Great Developer?" [Slides](http://matthewturland.com/slides/great-developer), [Feedback](https://joind.in/event/longhorn-php-conference-2021/what-makes-a-great-developer).
 * October 2021. [Longhorn PHP](https://www.longhornphp.com/). Tutorial: "The OOP in PHP." [Slides](https://matthewturland.com/slides/phpoop-tutorial/), [Feedback](https://joind.in/event/longhorn-php-conference-2021/the-oop-in-php).
 * April 2020. [Midwest PHP](https://midwestphp.org/). "What Makes a Great Developer?" [Slides](https://matthewturland.com/slides/great-developer/).
@@ -264,6 +265,7 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Podcasts
 
+* July 2022. [Free the Geek](https://www.freethegeek.fm). "Episode 37: With Matthew Turland. TypeScript, Functional Programming + Loads More!" [Podcast](https://www.freethegeek.fm/37).
 * January 2020. [Free the Geek](http://freethegeek.fm). "Episode 34: Talking with Matthew Turland About Updating Technical Books and Programming in Multiple Languages + Loads More!" [Podcast](https://www.freethegeek.fm/34).
 * January 2020. [php[architect]](https://phparch.com). "Arrays in PHP, Web Browsers, Security Habits, and Matthew Turland." [Podcast](https://www.phparch.com/podcast/arrays-in-php-web-browsers-security-habits-and-matthew-turland/).
 * August 2019. [Voices of the ElePHPant](https://voicesoftheelephpant.com/). "Interview with Matthew Turland." [Podcast](https://voicesoftheelephpant.com/2019/08/13/interview-with-matthew-turland/).
