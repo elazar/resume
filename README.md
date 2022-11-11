@@ -30,7 +30,9 @@ for backend services.
 
 **Software Engineer (Remote) - January 2022 to Present**
 
-* Contributing to an asset management service backend built on TypeScript, PostgreSQL, Elasticsearch, and AWS services
+* Maintained an existing asset management service built on Node/TypeScript, PostgreSQL, Elasticsearch, and AWS services
+* Contributed to a new furniture-targeted asset management service built on TypeScript, PostgreSQL, and OpenSearch hosted on AWS
+* Lead development of new services for authentication (using Okta) and image hosting and transformation built on TypeScript and AWS S3 and CloudFront
 
 ### Stack Sports
 
