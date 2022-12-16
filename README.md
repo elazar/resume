@@ -16,11 +16,11 @@ for backend services.
 
 ## Skills
 
-* Languages: PHP, JavaScript/Node/TypeScript, Python, SQL
-* Frameworks: Slim, Symfony, Laravel, Express, Flask
-* Databases: PostgreSQL, MySQL/MariaDB, Redis, Mongo, Elasticsearch
-* Testing: PHPUnit, Mocha, Jest
-* Infrastructure: AWS, Docker
+* Languages: PHP, JavaScript/Node, TypeScript, SQL
+* Frameworks: Koa, Express, Slim, Laravel, Symfony
+* Databases: PostgreSQL, MySQL, Redis, ElasticSearch/OpenSearch, Mongo
+* Testing: Mocha, Jest, Pest, PHPUnit
+* Infrastructure: AWS, Terraform, Docker
 
 ## Experience
 
@@ -28,11 +28,13 @@ for backend services.
 
 [rheaply.com](https://rheaply.com)
 
-**Software Engineer (Remote) - January 2022 to Present**
+**Software Engineer (Remote) - January 2022 to December 2022**
 
 * Maintained an existing asset management service built on Node/TypeScript, PostgreSQL, Elasticsearch, and AWS services
 * Contributed to a new furniture-targeted asset management service built on TypeScript, PostgreSQL, and OpenSearch hosted on AWS
-* Lead development of new services for authentication (using Okta) and image hosting and transformation built on TypeScript and AWS S3 and CloudFront
+* Led development of new services for authentication (using Okta) and image hosting and transformation built on TypeScript and AWS S3 and CloudFront
+* Contributed improvements to Docker-based local development environments
+* Assisted in codifying AWS infrastructure using Terraform
 
 ### Stack Sports
 
