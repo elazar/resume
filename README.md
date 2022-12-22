@@ -293,8 +293,8 @@ For others, check out my [web site](https://matthewturland.com/code/).
 
 ## Education
 
-* September 2008: Zend Framework Zend Certified Engineer, Registration #227153802. [Certification](https://www.zend.com/en/yellow-pages/ZEND006349).
-* October 2007: PHP 5 Zend Certified Engineer, Registration #222726164. [Certification](https://www.zend.com/en/yellow-pages/ZEND006349).
+* September 2008: Zend Framework Zend Certified Engineer, Registration #227153802. [Certification]([https://www.zend.com/en/yellow-pages/ZEND006349](https://www.zend-zce.com/en/yellow-pages/ZEND006349)).
+* October 2007: PHP 5 Zend Certified Engineer, Registration #222726164. [Certification]([https://www.zend.com/en/yellow-pages/ZEND006349](https://www.zend-zce.com/en/yellow-pages/ZEND006349)).
 * December 2006: Bachelors of Science in Computer Science, Concentration in Video Game Development, University of Louisiana at Lafayette.
 
 ## Testimonials
