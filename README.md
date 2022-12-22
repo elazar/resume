@@ -5,6 +5,7 @@
 * [me@matthewturland.com](mailto:me@matthewturland.com)
 * [matthewturland.com](https://matthewturland.com)
 * [LinkedIn](https://www.linkedin.com/in/matthew-turland-6aba77256/)
+* [+1-337-366-5737](tel:+1-337-366-5737)
 
 ## Background
 
