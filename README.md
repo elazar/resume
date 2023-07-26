@@ -26,6 +26,17 @@ for backend services.
 
 ## Experience
 
+### Follow-Up Boss
+
+[followupboss.com](https://followupboss.com)
+
+**Senior Full Stack Engineer (Remote) - January 2023 to Present**
+
+* Maintained an existing real estate-focused CRM backend based on PHP, MySQL, and Redis
+* Spearheaded adding support for forwarding emails to React-based email composer frontend and associated backend endpoints
+* Worked with a team to replace backend functionality supporting existing automations features with a more cohesive and robust automations system
+* Contributed to improvements in PHPUnit-based automated tests and configuring of related coverage reporting in continuous integration system
+
 ### Rheaply
 
 [rheaply.com](https://rheaply.com)
